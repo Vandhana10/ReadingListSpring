@@ -1,0 +1,13 @@
+{
+  "groups": [{
+    "name": "amazon",
+    "type": "com.Book.AmazonProperties",
+    "sourceType": "com.Book.AmazonProperties"
+  }],
+  "properties": [{
+    "name": "amazon.associate-id",
+    "type": "java.lang.String",
+    "sourceType": "com.Book.AmazonProperties"
+  }],
+  "hints": []
+}
